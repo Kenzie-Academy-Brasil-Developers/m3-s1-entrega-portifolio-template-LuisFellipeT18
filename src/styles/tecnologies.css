@@ -1,0 +1,10 @@
+.tecnolies{
+    display: flex;
+    gap: 0.625rem;
+    flex-wrap: wrap;
+}
+.list {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}

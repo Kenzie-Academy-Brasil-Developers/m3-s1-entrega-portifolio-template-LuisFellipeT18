@@ -1,0 +1,28 @@
+.container {
+    width: 100%;
+    max-width: 56.25rem;
+    margin: 0 auto;
+    padding: 1.5rem;
+}
+#container {
+    width: 100%;
+    max-width: 56.25rem;
+    margin: 0 auto;
+    padding: 1.5rem;
+}
+.section-padding{
+    padding:  .125rem 0;
+}
+
+.section-contact{
+    width: 53rem;
+    border-top: 1px solid var(--color-greyScale-white);
+    border-bottom: 1px solid var(--color-greyScale-white);
+    
+
+}
+.alignList {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}

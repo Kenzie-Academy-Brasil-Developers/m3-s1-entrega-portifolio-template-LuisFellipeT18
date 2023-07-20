@@ -1,0 +1,10 @@
+.aboutSection {
+    display: flex;
+    gap: 50px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.description {
+    width: 615px;
+}

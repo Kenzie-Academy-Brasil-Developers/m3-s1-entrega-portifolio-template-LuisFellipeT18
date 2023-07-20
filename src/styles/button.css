@@ -1,0 +1,38 @@
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    height: 2.4375rem;
+    width: 7.125rem;
+    gap: 1rem;
+    border-radius: 0.75rem;
+    background: var(--color-primary);
+    color: var(--color-greyScale-white);
+    font-family: var(--typography);
+    font-size: 0.875rem;
+    font-weight: 600;
+    padding: 0.3125rem;
+    text-decoration: none;
+    transition: .4s;
+}
+
+.btn:hover{
+    background: var(--color-primary-hover);
+}
+
+.link-header{
+    font-family: var(--typography);
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--color-greyScale-white);
+    text-decoration: none;
+    
+}
+.link-projects{
+    font-size: 1rem;
+    font-family: var(--typography);
+    font-weight: 700;
+    line-height: 30px;
+    color: var(--color-primary);
+    text-decoration: none;
+}

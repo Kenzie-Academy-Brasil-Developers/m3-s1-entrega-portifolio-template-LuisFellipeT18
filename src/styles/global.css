@@ -1,0 +1,15 @@
+:root{
+    --color-primary: #6880FF;
+    --color-primary-hover: #7C91FF;
+    --color-greyScale-black: #000000;
+    --color-greyScale-white: #FFFFFF;
+
+    --typography: 'Inter', sans-serif;
+    
+
+
+}
+body {
+    background: var(--color-greyScale-black);
+    color: var(--color-greyScale-white);
+}

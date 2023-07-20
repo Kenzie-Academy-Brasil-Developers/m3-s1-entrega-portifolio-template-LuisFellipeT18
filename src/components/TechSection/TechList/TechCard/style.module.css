@@ -1,0 +1,12 @@
+.cardTech {
+    width: 287px;
+    height: 86px;
+    border: 1px solid var(--color-greyScale-white);
+    border-radius: 1.5625rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 40px;
+    
+    
+}

@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.headerLinks{
+    display: flex;
+    justify-content: space-between;
+    width: 14.375rem;
+}
+.header img{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 70.697px;
+    height: 13.872px;
+}

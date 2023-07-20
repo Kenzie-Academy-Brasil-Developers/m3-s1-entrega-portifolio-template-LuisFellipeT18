@@ -1,0 +1,16 @@
+.alignFooter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 0.625rem;
+}
+.alignContactImg {
+    display: flex;
+    flex-direction: column;
+    gap: 1.25rem;
+}
+.alignImg {
+    display: flex;
+    gap: 0.625rem;
+}
